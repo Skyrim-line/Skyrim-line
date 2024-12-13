@@ -4,7 +4,7 @@
 ## My name is Skyrim Wu, a Software Engineer and also photographer 
 
 
-- 🔭 I’m currently working on my own project [SnapScape--Visual Social Hub](https://github.com/Skyrim-line/ins_project)
+- 🔭 I’m currently working on my own website [Skyrim-Personal-Website](https://github.com/Skyrim-line/Skyrim-Personal-Website)
 - 🌱 I’m currently learning in UNSW
 - 🤔 I’m looking for job in Sydney
 - 💬 Ask me about everything hhhh
